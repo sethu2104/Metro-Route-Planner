@@ -1,1 +1,2 @@
 # Metro-Route-Planner
+Metro Route Planner is a command-line application  built in C++ that helps users plan their metro trips efficiently. It uses graph algorithms to map out metro networks, letting users see station lists, visualize routes on a map, find the shortest paths between stations (using  Dijkstra's algorithm), and get guidance on changing trains. The goal of Metro Route Planner is to make metro travel easier by providing detailed route planning and helpful advice.
